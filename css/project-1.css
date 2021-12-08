@@ -101,3 +101,7 @@ html {
     font-size: 70%;
     margin-block-start: 0;
 }
+
+iframe {
+    border: none;
+}
